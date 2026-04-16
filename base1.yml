@@ -1,0 +1,329 @@
+matches:
+  - trigger: ":espanso"
+    replace: "Hi there!"
+
+  - trigger: ".ok"
+    replace: "136732"
+ 
+  - trigger: ".ee"
+    replace: "espanso edit"
+
+  - trigger: ".td"
+    replace: "{{mydate}}"
+    vars:
+      - name: mydate
+        type: date
+        params:
+          format: "%m/%d/%Y"
+
+  - trigger: ".dow"
+    replace: "{{mydow}}"
+    vars:
+      - name: mydow
+        type: date
+        params:
+          format: "%A"
+
+  - trigger: ".ok"
+    replace: "136732"
+
+  - trigger: ":officephone"
+    replace: "2813744500"
+
+  - trigger: ":phone"
+    replace: "323-395-8384"
+
+  - trigger: ":udscomprehensive"
+    replace: "39428"
+
+  - trigger: ":timetest"
+    replace: "Date: {{mydate}} | Long: {{mydate_long}} | Day: {{mydow}} | Month: {{mymonth}} | Year: {{myyear}} | Time: {{mytime}}"
+    vars:
+      - name: mydate
+        type: date
+        params:
+          format: "%m/%d/%Y"
+      - name: mydate_long
+        type: date
+        params:
+          format: "%B %d, %Y"
+      - name: mydow
+        type: date
+        params:
+          format: "%A"
+      - name: mymonth
+        type: date
+        params:
+          format: "%B"
+      - name: myyear
+        type: date
+        params:
+          format: "%Y"
+      - name: mytime
+        type: date
+        params:
+          format: "%I:%M %p"
+
+  - trigger: ":portalguide"
+    replace: |
+      How to Access the Patient Portal
+
+      Direct link (Texas):
+      https://pp-wfe-100.advancedmd.com/136732/account/logon
+
+      For other states:
+      Visit https://lifestance.com/patient-portal/
+      and select your state.
+
+      Step-by-step instructions:
+
+      1. Go to LifeStance.com
+      2. Scroll to the bottom of the page
+      3. Under Quick Links, click Patient Portal
+      4. Select your state
+      5. Click Access Patient Portal
+      6. Sign in using your email and password
+        - If you're new, click Register
+        - If needed, click Forgot Password
+
+  - trigger: ":lamictalguide"
+    replace: |
+      Lamictal Titration Guide (Target Dose: 200 mg/day)
+      Weeks 1-2: 25 mg once daily
+      Weeks 3-4: 25 mg twice daily (morning + evening) total 50 mg/day
+      Weeks 5-6: 50 mg twice daily (morning + evening) total 100 mg/day
+      After week 6: Goal dose may be 100 mg twice daily (200 mg/day)
+
+  - trigger: ":email"
+    replace: "natepuls@gmail.com"
+
+  - trigger: ":fullname"
+    replace: "Nathan Puls"
+
+  - trigger: ":workemail"
+    replace: "nathan.puls@lifestance.com"
+
+  - trigger: ":outsiderecords"
+    replace: "Outside records to Lifestance: They can be uploaded through the patient portal or faxed to 281-648-2200"
+
+  - trigger: ":requestrecords"
+    replace: "Patients can now request records by visiting www.lifestance.com/medical-records or call 480-690-1139 to request a secure text link. Any question or concerns please contact 1-800-367-1500."
+
+  - trigger: ":busparsig"
+    replace: "Take one tablet by mouth twice daily for 7 days, then increase to two tablets (10 mg) twice daily thereafter."
+
+  - trigger: ":med-adderall"
+    replace: "Adderall"
+
+  - trigger: ":dx-aud"
+    replace: "Alcohol Use Disorder"
+
+  - trigger: ":med-alprazolam"
+    replace: "Alprazolam"
+
+  - trigger: ":med-ambien"
+    replace: "Ambien"
+
+  - trigger: ":med-amitriptyline"
+    replace: "Amitriptyline"
+
+  - trigger: ":dx-anorexia"
+    replace: "Anorexia Nervosa"
+
+  - trigger: ":dx-aspd"
+    replace: "Antisocial Personality Disorder"
+
+  - trigger: ":anxiety"
+    replace: "anxiety"
+
+  - trigger: ":anxious"
+    replace: "anxious"
+
+  - trigger: ":appropriate"
+    replace: "appropriate"
+
+  - trigger: ":med-aripiprazole"
+    replace: "Aripiprazole"
+
+  - trigger: ":dx-adhd"
+    replace: "Attention-Deficit/Hyperactivity Disorder"
+
+  - trigger: ":dx-asd"
+    replace: "Autism Spectrum Disorder"
+
+  - trigger: ":dx-bed"
+    replace: "Binge Eating Disorder"
+
+  - trigger: ":dx-bipolar1"
+    replace: "Bipolar I Disorder"
+
+  - trigger: ":dx-bipolar2"
+    replace: "Bipolar II Disorder"
+
+  - trigger: ":dx-bpd"
+    replace: "Borderline Personality Disorder"
+
+  - trigger: ":dx-bulimia"
+    replace: "Bulimia Nervosa"
+
+  - trigger: ":med-buspirone"
+    replace: "Buspirone"
+
+  - trigger: ":med-celexa"
+    replace: "Celexa"
+
+  - trigger: ":med-citalopram"
+    replace: "Citalopram"
+
+  - trigger: ":med-clomipramine"
+    replace: "Clomipramine"
+
+  - trigger: ":med-clonazepam"
+    replace: "Clonazepam"
+
+  - trigger: ":med-clozapine"
+    replace: "Clozapine"
+
+  - trigger: ":constricted"
+    replace: "constricted"
+
+  - trigger: ":med-cymbalta"
+    replace: "Cymbalta"
+
+  - trigger: ":depressed"
+    replace: "depressed"
+
+  - trigger: ":depression"
+    replace: "depression"
+
+  - trigger: ":med-desvenlafaxine"
+    replace: "Desvenlafaxine"
+
+  - trigger: ":med-desyrel"
+    replace: "Desyrel"
+
+  - trigger: ":med-duloxetine"
+    replace: "Duloxetine"
+
+  - trigger: ":med-effexor"
+    replace: "Effexor"
+
+  - trigger: ":med-escitalopram"
+    replace: "Escitalopram"
+
+  - trigger: ":euthymic"
+    replace: "euthymic"
+
+  - trigger: ":med-fluoxetine"
+    replace: "Fluoxetine"
+
+  - trigger: ":dx-gad"
+    replace: "Generalized Anxiety Disorder"
+
+  - trigger: ":med-haloperidol"
+    replace: "Haloperidol"
+
+  - trigger: ":med-hydroxyzine"
+    replace: "Hydroxyzine"
+
+  - trigger: ":hypomanic"
+    replace: "hypomanic"
+
+  - trigger: ":med-imipramine"
+    replace: "Imipramine"
+
+  - trigger: ":irritable"
+    replace: "irritable"
+
+  - trigger: ":med-lamictal"
+    replace: "Lamictal"
+
+  - trigger: ":med-lamotrigine"
+    replace: "Lamotrigine"
+
+  - trigger: ":med-lexapro"
+    replace: "Lexapro"
+
+  - trigger: ":med-lithium"
+    replace: "Lithium"
+
+  - trigger: ":med-lorazepam"
+    replace: "Lorazepam"
+
+  - trigger: ":med-lurasidone"
+    replace: "Lurasidone"
+
+  - trigger: ":dx-mdd"
+    replace: "Major Depressive Disorder"
+
+  - trigger: ":med-melatonin"
+    replace: "Melatonin"
+
+  - trigger: ":med-nortriptyline"
+    replace: "Nortriptyline"
+
+  - trigger: ":dx-ocd"
+    replace: "Obsessive-Compulsive Disorder"
+
+  - trigger: ":med-olanzapine"
+    replace: "Olanzapine"
+
+  - trigger: ":dx-oud"
+    replace: "Opioid Use Disorder"
+
+  - trigger: ":dx-panic"
+    replace: "Panic Disorder"
+
+  - trigger: ":med-paroxetine"
+    replace: "Paroxetine"
+
+  - trigger: ":med-paxil"
+    replace: "Paxil"
+
+  - trigger: ":dx-pdd"
+    replace: "Persistent Depressive Disorder"
+
+  - trigger: ":dx-ptsd"
+    replace: "Post-Traumatic Stress Disorder"
+
+  - trigger: ":med-pristiq"
+    replace: "Pristiq"
+
+  - trigger: ":med-prozac"
+    replace: "Prozac"
+
+  - trigger: ":med-quetiapine"
+    replace: "Quetiapine"
+
+  - trigger: ":med-risperidone"
+    replace: "Risperidone"
+
+  - trigger: ":dx-schizoaffective"
+    replace: "Schizoaffective Disorder"
+
+  - trigger: ":dx-schizophrenia"
+    replace: "Schizophrenia"
+
+  - trigger: ":med-sertraline"
+    replace: "Sertraline"
+
+  - trigger: ":dx-socialanxiety"
+    replace: "Social Anxiety Disorder"
+
+  - trigger: ":med-trazodone"
+    replace: "Trazodone"
+
+  - trigger: ":med-valproate"
+    replace: "Valproate"
+
+  - trigger: ":med-venlafaxine"
+    replace: "Venlafaxine"
+
+  - trigger: ":med-vistaril"
+    replace: "Vistaril"
+
+  - trigger: ":med-zoloft"
+    replace: "Zoloft"
+
+  - trigger: ":med-zolpidem"
+    replace: "Zolpidem"
