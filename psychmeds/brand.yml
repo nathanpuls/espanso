@@ -1,0 +1,321 @@
+matches:
+  - trigger: ";zol"
+    replace: "Zoloft"
+
+  - trigger: ";lex"
+    replace: "Lexapro"
+
+  - trigger: ";pro"
+    replace: "Prozac"
+
+  - trigger: ";cele"
+    replace: "Celexa"
+
+  - trigger: ";paxi"
+    replace: "Paxil"
+
+  - trigger: ";luvo"
+    replace: "Luvox"
+
+  - trigger: ";eff"
+    replace: "Effexor"
+
+  - trigger: ";pris"
+    replace: "Pristiq"
+
+  - trigger: ";cym"
+    replace: "Cymbalta"
+
+  - trigger: ";save"
+    replace: "Savella"
+
+  - trigger: ";wel"
+    replace: "Wellbutrin"
+
+  - trigger: ";reme"
+    replace: "Remeron"
+
+  - trigger: ";desy"
+    replace: "Desyrel"
+
+  - trigger: ";trin"
+    replace: "Trintellix"
+
+  - trigger: ";viib"
+    replace: "Viibryd"
+
+  - trigger: ";elav"
+    replace: "Elavil"
+
+  - trigger: ";pame"
+    replace: "Pamelor"
+
+  - trigger: ";tofr"
+    replace: "Tofranil"
+
+  - trigger: ";anaf"
+    replace: "Anafranil"
+
+  - trigger: ";norp"
+    replace: "Norpramin"
+
+  - trigger: ";sine"
+    replace: "Sinequan"
+
+  - trigger: ";viva"
+    replace: "Vivactil"
+
+  - trigger: ";surm"
+    replace: "Surmontil"
+
+  - trigger: ";nard"
+    replace: "Nardil"
+
+  - trigger: ";parn"
+    replace: "Parnate"
+
+  - trigger: ";marp"
+    replace: "Marplan"
+
+  - trigger: ";emsa"
+    replace: "Emsam"
+
+  - trigger: ";asen"
+    replace: "Asendin"
+
+  - trigger: ";ludi"
+    replace: "Ludiomil"
+
+  - trigger: ";edro"
+    replace: "Edronax"
+
+  - trigger: ";vald"
+    replace: "Valdoxan"
+
+  - trigger: ";spra"
+    replace: "Spravato"
+
+  - trigger: ";bid"
+    replace: "Lithobid"
+
+  - trigger: ";lam"
+    replace: "Lamictal"
+
+  - trigger: ";tegr"
+    replace: "Tegretol"
+
+  - trigger: ";tril"
+    replace: "Trileptal"
+
+  - trigger: ";topa"
+    replace: "Topamax"
+
+  - trigger: ";neur"
+    replace: "Neurontin"
+
+  - trigger: ";lyri"
+    replace: "Lyrica"
+
+  - trigger: ";abi"
+    replace: "Abilify"
+
+  - trigger: ";ser"
+    replace: "Seroquel"
+
+  - trigger: ";zypr"
+    replace: "Zyprexa"
+
+  - trigger: ";risp"
+    replace: "Risperdal"
+
+  - trigger: ";saph"
+    replace: "Saphris"
+
+  - trigger: ";latu"
+    replace: "Latuda"
+
+  - trigger: ";rexe"
+    replace: "Rexulti"
+
+  - trigger: ";vray"
+    replace: "Vraylar"
+
+  - trigger: ";inve"
+    replace: "Invega"
+
+  - trigger: ";cloz"
+    replace: "Clozaril"
+
+  - trigger: ";geod"
+    replace: "Geodon"
+
+  - trigger: ";fana"
+    replace: "Fanapt"
+
+  - trigger: ";xan"
+    replace: "Xanax"
+
+  - trigger: ";ati"
+    replace: "Ativan"
+
+  - trigger: ";klon"
+    replace: "Klonopin"
+
+  - trigger: ";vali"
+    replace: "Valium"
+
+  - trigger: ";sera"
+    replace: "Serax"
+
+  - trigger: ";rest"
+    replace: "Restoril"
+
+  - trigger: ";libr"
+    replace: "Librium"
+
+  - trigger: ";tran"
+    replace: "Tranxene"
+
+  - trigger: ";vers"
+    replace: "Versed"
+
+  - trigger: ";halc"
+    replace: "Halcion"
+
+  - trigger: ";bus"
+    replace: "Buspar"
+
+  - trigger: ";vist"
+    replace: "Vistaril"
+
+  - trigger: ";inde"
+    replace: "Inderal"
+
+  - trigger: ";pros"
+    replace: "ProSom"
+
+  - trigger: ";ambi"
+    replace: "Ambien"
+
+  - trigger: ";sona"
+    replace: "Sonata"
+
+  - trigger: ";lune"
+    replace: "Lunesta"
+
+  - trigger: ";roze"
+    replace: "Rozerem"
+
+  - trigger: ";bels"
+    replace: "Belsomra"
+
+  - trigger: ";dayv"
+    replace: "Dayvigo"
+
+  - trigger: ";quvi"
+    replace: "Quviviq"
+
+  - trigger: ";rita"
+    replace: "Ritalin"
+
+  - trigger: ";foca"
+    replace: "Focalin"
+
+  - trigger: ";evek"
+    replace: "Evekeo"
+
+  - trigger: ";dexe"
+    replace: "Dexedrine"
+
+  - trigger: ";vyva"
+    replace: "Vyvanse"
+
+  - trigger: ";add"
+    replace: "Adderall"
+
+  - trigger: ";deso"
+    replace: "Desoxyn"
+
+  - trigger: ";stra"
+    replace: "Strattera"
+
+  - trigger: ";inti"
+    replace: "Intuniv"
+
+  - trigger: ";cata"
+    replace: "Catapres"
+
+  - trigger: ";qelb"
+    replace: "Qelbree"
+
+  - trigger: ";subu"
+    replace: "Subutex"
+
+  - trigger: ";dolo"
+    replace: "Dolophine"
+
+  - trigger: ";revi"
+    replace: "ReVia"
+
+  - trigger: ";camp"
+    replace: "Campral"
+
+  - trigger: ";anta"
+    replace: "Antabuse"
+
+  - trigger: ";chan"
+    replace: "Chantix"
+
+  - trigger: ";depa"
+    replace: "Depakote"
+
+  - trigger: ";kepp"
+    replace: "Keppra"
+
+  - trigger: ";zone"
+    replace: "Zonegran"
+
+  - trigger: ";gabi"
+    replace: "Gabitril"
+
+  - trigger: ";vima"
+    replace: "Vimpat"
+
+  - trigger: ";mini"
+    replace: "Minipress"
+
+  - trigger: ";prov"
+    replace: "Provigil"
+
+  - trigger: ";nuvi"
+    replace: "Nuvigil"
+
+  - trigger: ";name"
+    replace: "Namenda"
+
+  - trigger: ";keta"
+    replace: "Ketalar"
+
+  - trigger: ";hald"
+    replace: "Haldol"
+
+  - trigger: ";thor"
+    replace: "Thorazine"
+
+  - trigger: ";loxi"
+    replace: "Loxitane"
+
+  - trigger: ";coge"
+    replace: "Cogentin"
+
+  - trigger: ";arta"
+    replace: "Artane"
+
+  - trigger: ";bena"
+    replace: "Benadryl"
+
+  - trigger: ";mell"
+    replace: "Mellaril"
+
+  - trigger: ";lior"
+    replace: "Lioresal"
