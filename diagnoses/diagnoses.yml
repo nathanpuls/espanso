@@ -1,0 +1,224 @@
+matches:
+
+  # =========================
+  # Neurodevelopmental / Childhood
+  # =========================
+
+  - trigger: ".dx-adhd"
+    replace: "Attention-Deficit/Hyperactivity Disorder"
+
+  - trigger: ".dx-asd"
+    replace: "Autism Spectrum Disorder"
+
+  - trigger: ".dx-intellectual"
+    replace: "Intellectual Disability"
+
+  - trigger: ".dx-learning"
+    replace: "Specific Learning Disorder"
+
+  - trigger: ".dx-tic"
+    replace: "Tic Disorder / Tourette's Disorder"
+
+  - trigger: ".dx-selective"
+    replace: "Selective Mutism"
+
+  - trigger: ".dx-separation"
+    replace: "Separation Anxiety Disorder"
+
+
+  # =========================
+  # Mood Disorders
+  # =========================
+
+  - trigger: ".dx-mdd"
+    replace: "Major Depressive Disorder"
+
+  - trigger: ".dx-mdd-psychotic"
+    replace: "Major Depressive Disorder with Psychotic Features"
+
+  - trigger: ".dx-pdd"
+    replace: "Persistent Depressive Disorder (Dysthymia)"
+
+  - trigger: ".dx-postpartum"
+    replace: "Postpartum Depression"
+
+  - trigger: ".dx-peripartum"
+    replace: "Peripartum Mood Disorder"
+
+  - trigger: ".dx-bipolar1"
+    replace: "Bipolar I Disorder"
+
+  - trigger: ".dx-bipolar2"
+    replace: "Bipolar II Disorder"
+
+  - trigger: ".dx-bipolar-mixed"
+    replace: "Bipolar Disorder, Current Episode Mixed"
+
+  - trigger: ".dx-cyclothymic"
+    replace: "Cyclothymic Disorder"
+
+
+  # =========================
+  # Anxiety Disorders
+  # =========================
+
+  - trigger: ".dx-gad"
+    replace: "Generalized Anxiety Disorder"
+
+  - trigger: ".dx-panic"
+    replace: "Panic Disorder"
+
+  - trigger: ".dx-agoraphobia"
+    replace: "Agoraphobia"
+
+  - trigger: ".dx-socialanxiety"
+    replace: "Social Anxiety Disorder"
+
+  - trigger: ".dx-ocd"
+    replace: "Obsessive-Compulsive Disorder"
+
+  - trigger: ".dx-ocpd"
+    replace: "Obsessive-Compulsive Personality Disorder"
+
+
+  # =========================
+  # Trauma-Related
+  # =========================
+
+  - trigger: ".dx-ptsd"
+    replace: "Post-Traumatic Stress Disorder"
+
+  - trigger: ".dx-acute-stress"
+    replace: "Acute Stress Disorder"
+
+
+  # =========================
+  # Psychotic Disorders
+  # =========================
+
+  - trigger: ".dx-schizophrenia"
+    replace: "Schizophrenia"
+
+  - trigger: ".dx-schizoaffective"
+    replace: "Schizoaffective Disorder"
+
+  - trigger: ".dx-briefpsych"
+    replace: "Brief Psychotic Disorder"
+
+  - trigger: ".dx-delusional"
+    replace: "Delusional Disorder"
+
+  - trigger: ".dx-substancepsych"
+    replace: "Substance/Medication-Induced Psychotic Disorder"
+
+  - trigger: ".dx-medicalpsych"
+    replace: "Psychotic Disorder Due to Another Medical Condition"
+
+
+  # =========================
+  # Personality Disorders
+  # =========================
+
+  - trigger: ".dx-bpd"
+    replace: "Borderline Personality Disorder"
+
+  - trigger: ".dx-aspd"
+    replace: "Antisocial Personality Disorder"
+
+  - trigger: ".dx-npd"
+    replace: "Narcissistic Personality Disorder"
+
+  - trigger: ".dx-avoidant"
+    replace: "Avoidant Personality Disorder"
+
+  - trigger: ".dx-dependent"
+    replace: "Dependent Personality Disorder"
+
+
+  # =========================
+  # Substance Use Disorders
+  # =========================
+
+  - trigger: ".dx-sud"
+    replace: "Substance Use Disorder"
+
+  - trigger: ".dx-oud"
+    replace: "Opioid Use Disorder"
+
+  - trigger: ".dx-aud"
+    replace: "Alcohol Use Disorder"
+
+  - trigger: ".dx-cannabis"
+    replace: "Cannabis Use Disorder"
+
+  - trigger: ".dx-stimulant"
+    replace: "Stimulant Use Disorder"
+
+  - trigger: ".dx-tobacco"
+    replace: "Tobacco Use Disorder"
+
+  - trigger: ".dx-polysubstance"
+    replace: "Polysubstance Use Disorder"
+
+  - trigger: ".dx-remission"
+    replace: "Substance Use Disorder, In Remission"
+
+
+  # =========================
+  # Eating Disorders
+  # =========================
+
+  - trigger: ".dx-anorexia"
+    replace: "Anorexia Nervosa"
+
+  - trigger: ".dx-bulimia"
+    replace: "Bulimia Nervosa"
+
+  - trigger: ".dx-bed"
+    replace: "Binge Eating Disorder"
+
+
+  # =========================
+  # Sleep / Circadian
+  # =========================
+
+  - trigger: ".dx-insomnia"
+    replace: "Insomnia Disorder"
+
+  - trigger: ".dx-hypersomnia"
+    replace: "Hypersomnolence Disorder"
+
+  - trigger: ".dx-circadian"
+    replace: "Circadian Rhythm Sleep-Wake Disorder"
+
+  - trigger: ".dx-sleepapnea"
+    replace: "Sleep Apnea"
+
+
+  # =========================
+  # Clinical Status / Safety (commonly charted)
+  # =========================
+
+  - trigger: ".dx-si"
+    replace: "Suicidal Ideation"
+
+  - trigger: ".dx-hi"
+    replace: "Homicidal Ideation"
+
+  - trigger: ".dx-nssi"
+    replace: "Non-Suicidal Self-Injury"
+
+  - trigger: ".dx-nonadherence"
+    replace: "Medication Nonadherence"
+
+  - trigger: ".dx-euthymic"
+    replace: "Euthymic Mood"
+
+  - trigger: ".dx-depressed"
+    replace: "Depressed Mood"
+
+  - trigger: ".dx-manic"
+    replace: "Manic Episode"
+
+  - trigger: ".dx-hypomanic"
+    replace: "Hypomanic Episode"
