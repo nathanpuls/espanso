@@ -1,0 +1,339 @@
+matches:
+  - trigger: ";sert"
+    replace: "Sertraline"
+
+  - trigger: ";esci"
+    replace: "Escitalopram"
+
+  - trigger: ";fluo"
+    replace: "Fluoxetine"
+
+  - trigger: ";cita"
+    replace: "Citalopram"
+
+  - trigger: ";para"
+    replace: "Paroxetine"
+
+  - trigger: ";fluv"
+    replace: "Fluvoxamine"
+
+  - trigger: ";venl"
+    replace: "Venlafaxine"
+
+  - trigger: ";desv"
+    replace: "Desvenlafaxine"
+
+  - trigger: ";dulo"
+    replace: "Duloxetine"
+
+  - trigger: ";lev o"
+    replace: "Levomilnacipran"
+
+  - trigger: ";mila"
+    replace: "Milnacipran"
+
+  - trigger: ";bupo"
+    replace: "Bupropion"
+
+  - trigger: ";mirt"
+    replace: "Mirtazapine"
+
+  - trigger: ";trau"
+    replace: "Trazodone"
+
+  - trigger: ";vort"
+    replace: "Vortioxetine"
+
+  - trigger: ";vila"
+    replace: "Vilazodone"
+
+  - trigger: ";amit"
+    replace: "Amitriptyline"
+
+  - trigger: ";nort"
+    replace: "Nortriptyline"
+
+  - trigger: ";imip"
+    replace: "Imipramine"
+
+  - trigger: ";clom"
+    replace: "Clomipramine"
+
+  - trigger: ";desi"
+    replace: "Desipramine"
+
+  - trigger: ";doxe"
+    replace: "Doxepin"
+
+  - trigger: ";prot"
+    replace: "Protriptyline"
+
+  - trigger: ";trim"
+    replace: "Trimipramine"
+
+  - trigger: ";phen"
+    replace: "Phenelzine"
+
+  - trigger: ";tran"
+    replace: "Tranylcypromine"
+
+  - trigger: ";isoc"
+    replace: "Isocarboxazid"
+
+  - trigger: ";sele"
+    replace: "Selegiline"
+
+  - trigger: ";amox"
+    replace: "Amoxapine"
+
+  - trigger: ";mapr"
+    replace: "Maprotiline"
+
+  - trigger: ";rebo"
+    replace: "Reboxetine"
+
+  - trigger: ";agom"
+    replace: "Agomelatine"
+
+  - trigger: ";eske"
+    replace: "Esketamine"
+
+  - trigger: ";lith"
+    replace: "Lithium"
+
+  - trigger: ";lama"
+    replace: "Lamotrigine"
+
+  - trigger: ";carb"
+    replace: "Carbamazepine"
+
+  - trigger: ";oxca"
+    replace: "Oxcarbazepine"
+
+  - trigger: ";topi"
+    replace: "Topiramate"
+
+  - trigger: ";gaba"
+    replace: "Gabapentin"
+
+  - trigger: ";preg"
+    replace: "Pregabalin"
+
+  - trigger: ";arip"
+    replace: "Aripiprazole"
+
+  - trigger: ";quet"
+    replace: "Quetiapine"
+
+  - trigger: ";olan"
+    replace: "Olanzapine"
+
+  - trigger: ";risp"
+    replace: "Risperidone"
+
+  - trigger: ";asen"
+    replace: "Asenapine"
+
+  - trigger: ";lura"
+    replace: "Lurasidone"
+
+  - trigger: ";brex"
+    replace: "Brexpiprazole"
+
+  - trigger: ";cari"
+    replace: "Cariprazine"
+
+  - trigger: ";pali"
+    replace: "Paliperidone"
+
+  - trigger: ";cloz"
+    replace: "Clozapine"
+
+  - trigger: ";zipr"
+    replace: "Ziprasidone"
+
+  - trigger: ";ilop"
+    replace: "Iloperidone"
+
+  - trigger: ";alpr"
+    replace: "Alprazolam"
+
+  - trigger: ";lora"
+    replace: "Lorazepam"
+
+  - trigger: ";clona"
+    replace: "Clonazepam"
+
+  - trigger: ";diaz"
+    replace: "Diazepam"
+
+  - trigger: ";oxaz"
+    replace: "Oxazepam"
+
+  - trigger: ";tema"
+    replace: "Temazepam"
+
+  - trigger: ";chlord"
+    replace: "Chlordiazepoxide"
+
+  - trigger: ";clor"
+    replace: "Clorazepate"
+
+  - trigger: ";mida"
+    replace: "Midazolam"
+
+  - trigger: ";tria"
+    replace: "Triazolam"
+
+  - trigger: ";busp"
+    replace: "Buspirone"
+
+  - trigger: ";hydr"
+    replace: "Hydroxyzine"
+
+  - trigger: ";prop"
+    replace: "Propranolol"
+
+  - trigger: ";esta"
+    replace: "Estazolam"
+
+  - trigger: ";flur"
+    replace: "Flurazepam"
+
+  - trigger: ";quaz"
+    replace: "Quazepam"
+
+  - trigger: ";zolp"
+    replace: "Zolpidem"
+
+  - trigger: ";zale"
+    replace: "Zaleplon"
+
+  - trigger: ";eszo"
+    replace: "Eszopiclone"
+
+  - trigger: ";mela"
+    replace: "Melatonin"
+
+  - trigger: ";rame"
+    replace: "Ramelteon"
+
+  - trigger: ";suvo"
+    replace: "Suvorexant"
+
+  - trigger: ";lemb"
+    replace: "Lemborexant"
+
+  - trigger: ";dari"
+    replace: "Daridorexant"
+
+  - trigger: ";methy"
+    replace: "Methylphenidate"
+
+  - trigger: ";dexm"
+    replace: "Dexmethylphenidate"
+
+  - trigger: ";ampe"
+    replace: "Amphetamine"
+
+  - trigger: ";dext"
+    replace: "Dextroamphetamine"
+
+  - trigger: ";lisd"
+    replace: "Lisdexamfetamine"
+
+  - trigger: ";mixe"
+    replace: "Mixed amphetamine salts"
+
+  - trigger: ";atom"
+    replace: "Atomoxetine"
+
+  - trigger: ";guan"
+    replace: "Guanfacine"
+
+  - trigger: ";cloni"
+    replace: "Clonidine"
+
+  - trigger: ";vilo"
+    replace: "Viloxazine"
+
+  - trigger: ";bupr"
+    replace: "Buprenorphine"
+
+  - trigger: ";metha"
+    replace: "Methadone"
+
+  - trigger: ";nalt"
+    replace: "Naltrexone"
+
+  - trigger: ";acam"
+    replace: "Acamprosate"
+
+  - trigger: ";disu"
+    replace: "Disulfiram"
+
+  - trigger: ";nalm"
+    replace: "Nalmefene"
+
+  - trigger: ";vare"
+    replace: "Varenicline"
+
+  - trigger: ";diva"
+    replace: "Divalproex"
+
+  - trigger: ";leve"
+    replace: "Levetiracetam"
+
+  - trigger: ";zoni"
+    replace: "Zonisamide"
+
+  - trigger: ";tiag"
+    replace: "Tiagabine"
+
+  - trigger: ";laco"
+    replace: "Lacosamide"
+
+  - trigger: ";pind"
+    replace: "Pindolol"
+
+  - trigger: ";praz"
+    replace: "Prazosin"
+
+  - trigger: ";moda"
+    replace: "Modafinil"
+
+  - trigger: ";armo"
+    replace: "Armodafinil"
+
+  - trigger: ";mema"
+    replace: "Memantine"
+
+  - trigger: ";keta"
+    replace: "Ketamine"
+
+  - trigger: ";halo"
+    replace: "Haloperidol"
+
+  - trigger: ";chlorp"
+    replace: "Chlorpromazine"
+
+  - trigger: ";loxa"
+    replace: "Loxapine"
+
+  - trigger: ";bent"
+    replace: "Benztropine"
+
+  - trigger: ";trih"
+    replace: "Trihexyphenidyl"
+
+  - trigger: ";diph"
+    replace: "Diphenhydramine"
+
+  - trigger: ";nefa"
+    replace: "Nefazodone"
+
+  - trigger: ";thio"
+    replace: "Thioridazine"
+
+  - trigger: ";bacl"
+    replace: "Baclofen"
